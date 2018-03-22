@@ -69,8 +69,7 @@
 
 	freeboard.loadDatasourcePlugin({
 		type_name  : "JSON WebSocket",
-		display_name : "JSON WebSocket Push Datasource",
-		description : "A push datasource based on browser built-in WebSocket implementation, <em>by Lorenzo Maiorfi - <a href=\"http://www.innovactive.it\">Innovactive Engineering s.r.l.</a></em> You can download a sample dashboard using this datasource <a href=\"https://dl.dropboxusercontent.com/u/7414592/dashboard_demo_1.json\">here</a>",
+		display_name : "WebSocket",
 		settings   : [
 			{
 				name        : "url",
